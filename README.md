@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JFrancis23
-- 👀 I’m interested in front end development & AI interface.
+- 👀 I’m interested in front end development & AI interface and am looking to transition into a software development job.
 - 🌱 I’m currently learning Javascript & would like to learn python after.
 
 <!---
